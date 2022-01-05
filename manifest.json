@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Bug Alert is Live",
+        "summary": "<p>Hello, world! Bug Alert is now live. Read the announcement post at https://mattslifebytes.com/2022/01/04/bugalert-org/ to learn more.</p>",
+        "category": {
+            "name": "Test",
+            "slug": "test",
+            "url": "https://bugalert.org/categories/test.html"
+        },
+        "date": 1641304800.0,
+        "uri": "https://bugalert.org/content/notices/2022-01-04-bugalert.html",
+        "author": {
+            "name": "Bug Alert Contributors",
+            "slug": "bug-alert-contributors",
+            "url": "https://bugalert.org/authors/bug-alert-contributors.html"
+        },
+        "email": null,
+        "tags": []
+    },
+    {
+        "title": "RCE in Log4j",
+        "summary": "<p>A remote code execution vulnerability has been found in the popular Java logging library Log4j. This issue is easily exploited in common configurations, and has been assigned a bug alert severity of 'critical'.</p>",
+        "category": {
+            "name": "Software Frameworks, Libraries, and Components",
+            "slug": "software-frameworks-libraries-and-components",
+            "url": "https://bugalert.org/categories/software-frameworks-libraries-and-components.html"
+        },
+        "date": 1639090800.0,
+        "uri": "https://bugalert.org/content/notices/2021-12-09-log4j.html",
+        "author": {
+            "name": "Bug Alert Contributors",
+            "slug": "bug-alert-contributors",
+            "url": "https://bugalert.org/authors/bug-alert-contributors.html"
+        },
+        "email": null,
+        "tags": [
+            {
+                "name": "Java",
+                "slug": "java",
+                "url": "https://bugalert.org/tags/java.html"
+            },
+            {
+                "name": "Log4j",
+                "slug": "log4j",
+                "url": "https://bugalert.org/tags/log4j.html"
+            },
+            {
+                "name": "Critical Severity",
+                "slug": "critical-severity",
+                "url": "https://bugalert.org/tags/critical-severity.html"
+            }
+        ]
+    }
+]
